@@ -1,7 +1,7 @@
 import csv
 
 # Define o nome do arquivo de entrada e saída
-arquivo_entrada = 'assets/pass.txt'
+arquivo_entrada = 'pass.txt'
 arquivo_saida = 'dados.csv'
 
 # Abre o arquivo de texto para leitura
